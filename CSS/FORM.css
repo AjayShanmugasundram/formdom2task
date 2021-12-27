@@ -1,0 +1,18 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood;
+}
+#reset1{
+margin-left: 2em;
+margin-top: 2em;
+margin-bottom: 2em;
+}
+#submit{
+    margin-left: 30em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+td,tr,table{
+    border: 2px solid black;
+}
